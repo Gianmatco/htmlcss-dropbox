@@ -314,7 +314,44 @@ main .input{
 .col-center-text{
     font-size: 14px;
 }
-.
+
+
+/*col-foot*/
+.col-foot{
+    background-color: #b3d0e7;
+    position: relative;
+}
+.col-foot-text{
+    position: relative;
+}
+.col-foot h1{
+    width: 500px;
+    padding: 60px 0;
+}
+.col-foot a{
+    position: absolute;
+    top:57px;
+    right: 48px;
+}
+
+/*question*/
+.box-question{
+    padding: 60px 0;
+    line-height: 6em;
+}
+.box-question h1{
+    padding-bottom: 30px;
+    
+}
+.question i{
+    position: relative;
+    left: 250px;
+}
+.question hr{
+    color: #E5E5E6;
+}
+
+
 
 
 
